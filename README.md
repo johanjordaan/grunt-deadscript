@@ -1,4 +1,4 @@
-# grunt-t2c ![Travis CI Status](https://api.travis-ci.org/johanjordaan/grunt-deadscript.svg?branch=master "Travis CI Status")
+# grunt-deadscript ![Travis CI Status](https://api.travis-ci.org/johanjordaan/grunt-deadscript.svg?branch=master "Travis CI Status")
 
 > Grunt deadscript(livescript) plugin.
 
