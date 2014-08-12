@@ -47,4 +47,5 @@ module.exports = (grunt) ->
 
   grunt.registerTask('examples',['deadscript'])
   grunt.registerTask('test', ['clean','examples','nodeunit'])
+  grunt.registerTask('build', ['jshint','test'])
   grunt.registerTask('default', ['examples']);
