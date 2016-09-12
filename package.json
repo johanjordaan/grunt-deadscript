@@ -1,7 +1,7 @@
 {
   "name": "grunt-deadscript",
   "description": "Grunt deadscript(livescript) plugin.",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "homepage": "https://github.com/johanjordaan/grunt-deadscript",
   "author": {
     "name": "Johan Jordaan",
@@ -21,7 +21,8 @@
     }
   ],
   "engines": {
-    "node": ">= 0.8.0"
+    "node": "^6.3",
+    "npm": "^3.10"
   },
   "scripts": {
     "test": "grunt test"
